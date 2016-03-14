@@ -1,0 +1,12 @@
+# Site settings
+title: MyBlog
+tag_text: Good Clean Read
+description: Test
+url: "http://zymtech.github.io"
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]

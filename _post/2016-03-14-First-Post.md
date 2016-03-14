@@ -4,4 +4,3 @@ title: My First Post
 ---
 	
 Have Fun
-
